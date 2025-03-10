@@ -1,10 +1,10 @@
-# [level 0] 자릿수 더하기 - 120906 
+# [level 0] 자릿수 더하기 - 120906
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120906) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120906)
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.07 ms
+메모리: 10.4 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 17일 20:41:38
+2025년 03월 10일 21:34:15
 
 ### 문제 설명
 
@@ -64,6 +64,5 @@
 <ul>
 <li>9 + 3 + 0 + 2 + 1 + 1 = 16을 return합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
