@@ -1,10 +1,10 @@
-# [level 0] 문자열안에 문자열 - 120908 
+# [level 0] 문자열안에 문자열 - 120908
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908)
 
 ### 성능 요약
 
-메모리: 9.09 MB, 시간: 0.00 ms
+메모리: 9.07 MB, 시간: 0.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 27일 11:39:21
+2025년 03월 16일 16:47:21
 
 ### 문제 설명
 
@@ -80,6 +80,5 @@
 <ul>
 <li>"AbcAbcA" <code>str1</code>에 <code>str2</code>가 없으므로 2를 return합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
