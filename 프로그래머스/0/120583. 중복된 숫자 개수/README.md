@@ -1,10 +1,10 @@
-# [level 0] 중복된 숫자 개수 - 120583 
+# [level 0] 중복된 숫자 개수 - 120583
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120583) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.04 ms
+메모리: 9.18 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 12일 11:44:42
+2025년 03월 18일 09:44:38
 
 ### 문제 설명
 
@@ -69,6 +69,5 @@
 <ul>
 <li>[0, 2, 3, 4] 에는 1이 0개 있습니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
