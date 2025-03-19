@@ -1,10 +1,10 @@
-# [level 0] 문자열 곱하기 - 181940 
+# [level 0] 문자열 곱하기 - 181940
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940)
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.03 ms
+메모리: 9.23 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 21일 11:19:52
+2025년 03월 19일 10:06:46
 
 ### 문제 설명
 
@@ -69,6 +69,5 @@
 <ul>
 <li>예제 2번의 <code>my_string</code>은 "love"이고 이를 10번 반복한 문자열은 "lovelovelovelovelovelovelovelovelovelove"이므로 이를 return 합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
