@@ -1,10 +1,10 @@
-# [level 0] 제곱수 판별하기 - 120909 
+# [level 0] 제곱수 판별하기 - 120909
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120909) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120909)
 
 ### 성능 요약
 
-메모리: 36.7 MB, 시간: 341.94 ms
+메모리: 9.14 MB, 시간: 74.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 01일 11:38:25
+2025년 03월 20일 19:06:51
 
 ### 문제 설명
 
@@ -64,6 +64,5 @@
 <ul>
 <li>976은 제곱수가 아닙니다. 따라서 2를 return합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
