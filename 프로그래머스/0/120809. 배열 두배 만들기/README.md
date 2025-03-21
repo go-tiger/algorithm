@@ -1,10 +1,10 @@
-# [level 0] 배열 두배 만들기 - 120809 
+# [level 0] 배열 두배 만들기 - 120809
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120809)
 
 ### 성능 요약
 
-메모리: 33.6 MB, 시간: 0.11 ms
+메모리: 9.24 MB, 시간: 0.11 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 03일 23:24:51
+2025년 03월 21일 10:46:57
 
 ### 문제 설명
 
@@ -65,6 +65,5 @@
 <ul>
 <li>[1, 2, 100, -99, 1, 2, 3]의 각 원소에 두배를 한 배열 [2, 4, 200, -198, 2, 4, 6]을 return합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
