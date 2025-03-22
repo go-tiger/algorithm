@@ -1,10 +1,10 @@
-# [level 0] 중앙값 구하기 - 120811 
+# [level 0] 중앙값 구하기 - 120811
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811)
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.04 ms
+메모리: 28 MB, 시간: 1.34 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 07일 14:32:14
+2025년 03월 22일 12:46:57
 
 ### 문제 설명
 
@@ -66,6 +66,5 @@
 <ul>
 <li>9, -1, 0을 오름차순 정렬하면 -1, 0, 9이고 가장 중앙에 위치하는 값은 0입니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
