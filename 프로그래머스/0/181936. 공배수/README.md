@@ -1,10 +1,10 @@
-# [level 0] 공배수 - 181936 
+# [level 0] 공배수 - 181936
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181936?language=python3)
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.03 ms
+메모리: 9.17 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 23일 23:06:59
+2025년 03월 24일 10:25:05
 
 ### 문제 설명
 
@@ -71,6 +71,5 @@
 <ul>
 <li>55는 5의 배수이지만 10의 배수가 아니기 때문에 0을 return합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
