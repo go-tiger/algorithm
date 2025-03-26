@@ -1,10 +1,10 @@
-# [level 0] 가장 큰 수 찾기 - 120899 
+# [level 0] 가장 큰 수 찾기 - 120899
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899)
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.03 ms
+메모리: 9.11 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 29일 03:42:34
+2025년 03월 26일 20:52:31
 
 ### 문제 설명
 
@@ -66,6 +66,5 @@
 <ul>
 <li>9, 10, 11, 8 중 가장 큰 수는 11이고 인덱스 2에 있습니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
