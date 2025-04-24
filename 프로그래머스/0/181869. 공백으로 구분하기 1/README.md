@@ -1,10 +1,10 @@
-# [level 0] 공백으로 구분하기 1 - 181869 
+# [level 0] 공백으로 구분하기 1 - 181869
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181869) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181869?language=python3)
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.02 ms
+메모리: 9.34 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 26일 10:17:19
+2025년 04월 24일 22:48:58
 
 ### 문제 설명
 
@@ -66,6 +66,5 @@
 <ul>
 <li>예제 2번의 <code>my_string</code>은 "programmers"로 단어가 하나만 있습니다. 따라서 ["programmers"]를 return 합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
