@@ -1,10 +1,10 @@
-# [level 0] ad 제거하기 - 181870 
+# [level 0] ad 제거하기 - 181870
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181870?language=python3)
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.10 ms
+메모리: 9.29 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 21일 20:50:21
+2025년 04월 27일 20:57:07
 
 ### 문제 설명
 
@@ -69,6 +69,5 @@
 <ul>
 <li>"ad"가 부분 문자열로 들어간 문자열이 존재하지 않습니다. 따라서 원래 배열을 그대로 return 합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
