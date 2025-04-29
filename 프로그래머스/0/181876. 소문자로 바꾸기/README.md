@@ -1,10 +1,10 @@
 # [level 0] 소문자로 바꾸기 - 181876 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181876) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181876?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.3 MB, 시간: 0.02 ms
+메모리: 8.98 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 08일 11:13:59
+2025년 04월 29일 20:03:38
 
 ### 문제 설명
 
