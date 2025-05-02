@@ -1,10 +1,10 @@
-# [level 0] 조건에 맞게 수열 변환하기 1 - 181882 
+# [level 0] 조건에 맞게 수열 변환하기 1 - 181882
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181882?language=python3)
 
 ### 성능 요약
 
-메모리: 47.1 MB, 시간: 8.69 ms
+메모리: 38.2 MB, 시간: 113.73 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 01일 13:08:10
+2025년 05월 02일 19:37:48
 
 ### 문제 설명
 
@@ -60,6 +60,5 @@
 <li>나머지 값들은 변경 조건에 해당하지 않으므로 바꾸지 않습니다.</li>
 <li>따라서 [2, 2, 6, 50, 99, 49]를 return 합니다.</li>
 </ul>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
