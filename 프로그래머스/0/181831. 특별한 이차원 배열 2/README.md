@@ -1,10 +1,10 @@
 # [level 0] 특별한 이차원 배열 2 - 181831 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831?language=python3) 
 
 ### 성능 요약
 
-메모리: 36.6 MB, 시간: 2.52 ms
+메모리: 9.44 MB, 시간: 1.36 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 07일 05:37:12
+2025년 06월 07일 16:05:01
 
 ### 문제 설명
 
@@ -64,29 +64,70 @@
 <ul>
 <li>예제 1번에서 문제의 조건이 잘 보이도록 표를 만들면 다음과 같습니다.</li>
 </ul>
-
-<p>|i|j|arr[i][j]|arr[j][i]|</p>
-
-<p>|---|---|---|---|</p>
-
-<p>|0|0|5|5|</p>
-
-<p>|0|1|192|192|</p>
-
-<p>|0|2|33|33|</p>
-
-<p>|1|0|192|192|</p>
-
-<p>|1|1|72|72|</p>
-
-<p>|1|2|95|95|</p>
-
-<p>|2|0|33|33|</p>
-
-<p>|2|1|95|95|</p>
-
-<p>|2|2|999|999|</p>
-<div class="highlight"><pre class="codehilite"><code>조건을 만족하므로 1을 return 합니다.
+<table class="table">
+        <thead><tr>
+<th>i</th>
+<th>j</th>
+<th>arr[i][j]</th>
+<th>arr[j][i]</th>
+</tr>
+</thead>
+        <tbody><tr>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>0</td>
+<td>1</td>
+<td>192</td>
+<td>192</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2</td>
+<td>33</td>
+<td>33</td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>192</td>
+<td>192</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>72</td>
+<td>72</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>95</td>
+<td>95</td>
+</tr>
+<tr>
+<td>2</td>
+<td>0</td>
+<td>33</td>
+<td>33</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1</td>
+<td>95</td>
+<td>95</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td>999</td>
+<td>999</td>
+</tr>
+</tbody>
+      </table><div class="highlight"><pre class="codehilite"><code>조건을 만족하므로 1을 return 합니다.
 </code></pre></div>
 <p>입출력 예 #2</p>
 
