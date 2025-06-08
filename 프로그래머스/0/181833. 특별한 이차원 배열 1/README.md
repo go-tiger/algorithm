@@ -1,10 +1,10 @@
 # [level 0] 특별한 이차원 배열 1 - 181833 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181833) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181833?language=python3) 
 
 ### 성능 요약
 
-메모리: 38.1 MB, 시간: 0.79 ms
+메모리: 9.54 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 02일 11:53:23
+2025년 06월 08일 17:08:01
 
 ### 문제 설명
 
@@ -64,7 +64,8 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li><p>예제 1번의 <code>n</code>의 값은 3으로 다음과 같이 2차원 배열을 채울 수 있습니다.</p>
+<li>예제 1번의 <code>n</code>의 값은 3으로 다음과 같이 2차원 배열을 채울 수 있습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i \ j</th>
@@ -92,14 +93,13 @@
 <td>1</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [[1, 0, 0], [0, 1, 0], [0, 0, 1]]을 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [[1, 0, 0], [0, 1, 0], [0, 0, 1]]을 return 합니다.
+</code></pre></div>
 <p>입출력 예 #2</p>
 
 <ul>
-<li><p>예제 2번의 <code>n</code>의 값은 6으로 다음과 같이 2차원 배열을 채울 수 있습니다.</p>
+<li>예제 2번의 <code>n</code>의 값은 6으로 다음과 같이 2차원 배열을 채울 수 있습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i \ j</th>
@@ -166,14 +166,13 @@
 <td>1</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [[1, 0, 0, 0, 0, 0], [0, 1, 0, 0, 0, 0], [0, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0], [0, 0, 0, 0, 1, 0], [0, 0, 0, 0, 0, 1]]을 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [[1, 0, 0, 0, 0, 0], [0, 1, 0, 0, 0, 0], [0, 0, 1, 0, 0, 0], [0, 0, 0, 1, 0, 0], [0, 0, 0, 0, 1, 0], [0, 0, 0, 0, 0, 1]]을 return 합니다.
+</code></pre></div>
 <p>입출력 예 #3</p>
 
 <ul>
-<li><p>예제 1번의 <code>n</code>의 값은 1이고 다음과 같이 2차원 배열을 채울 수 있습니다.</p>
+<li>예제 1번의 <code>n</code>의 값은 1이고 다음과 같이 2차원 배열을 채울 수 있습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i \ j</th>
@@ -185,9 +184,7 @@
 <td>1</td>
 </tr>
 </tbody>
-      </table>
-<p>따라서 [[1]]을 return 합니다.</p></li>
-</ul>
-
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [[1]]을 return 합니다.
+</code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
