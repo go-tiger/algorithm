@@ -1,10 +1,10 @@
 # [level 0] 빈 배열에 추가, 삭제하기 - 181860 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.9 MB, 시간: 0.78 ms
+메모리: 9.27 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 12일 18:32:01
+2025년 07월 04일 21:37:00
 
 ### 문제 설명
 
@@ -58,23 +58,52 @@
 <ul>
 <li>예제 1번에서 X의 변화를 표로 나타내면 다음과 같습니다</li>
 </ul>
-
-<p>|i|flag[i]|arr[i]|X|</p>
-
-<p>|---|----|-|-|</p>
-
-<p>||||[]|</p>
-
-<p>|0|true|3|[3, 3, 3, 3, 3, 3]|</p>
-
-<p>|1|false|2|[3, 3, 3, 3]|</p>
-
-<p>|2|true|4|[3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4]|</p>
-
-<p>|3|false|1|[3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4]|</p>
-
-<p>|4|false|3|[3, 3, 3, 3, 4, 4, 4, 4]|</p>
-<div class="highlight"><pre class="codehilite"><code>따라서 [3, 3, 3, 3, 4, 4, 4, 4]를 return 합니다.
+<table class="table">
+        <thead><tr>
+<th>i</th>
+<th>flag[i]</th>
+<th>arr[i]</th>
+<th>X</th>
+</tr>
+</thead>
+        <tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+<td>[]</td>
+</tr>
+<tr>
+<td>0</td>
+<td>true</td>
+<td>3</td>
+<td>[3, 3, 3, 3, 3, 3]</td>
+</tr>
+<tr>
+<td>1</td>
+<td>false</td>
+<td>2</td>
+<td>[3, 3, 3, 3]</td>
+</tr>
+<tr>
+<td>2</td>
+<td>true</td>
+<td>4</td>
+<td>[3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4]</td>
+</tr>
+<tr>
+<td>3</td>
+<td>false</td>
+<td>1</td>
+<td>[3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4]</td>
+</tr>
+<tr>
+<td>4</td>
+<td>false</td>
+<td>3</td>
+<td>[3, 3, 3, 3, 4, 4, 4, 4]</td>
+</tr>
+</tbody>
+      </table><div class="highlight"><pre class="codehilite"><code>따라서 [3, 3, 3, 3, 4, 4, 4, 4]를 return 합니다.
 </code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
