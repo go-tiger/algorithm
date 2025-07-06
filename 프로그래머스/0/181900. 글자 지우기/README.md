@@ -1,10 +1,10 @@
 # [level 0] 글자 지우기 - 181900 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181900?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.6 MB, 시간: 0.09 ms
+메모리: 9.16 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 13일 17:58:32
+2025년 07월 06일 11:54:59
 
 ### 문제 설명
 
@@ -59,13 +59,54 @@
 <ul>
 <li>예제 1번의 <code>my_string</code>의 인덱스가 잘 보이도록 표를 만들면 다음과 같습니다.</li>
 </ul>
-
-<p>|index|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|</p>
-
-<p>|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|</p>
-
-<p>|my_string|a|p|p|o|r|o|o|g|r|a|p|e|m|m|e|m|p|r|s|</p>
-<div class="highlight"><pre class="codehilite"><code>`indices`에 있는 인덱스의 글자들을 지우고 이어붙이면 "programmers"가 되므로 이를 return 합니다.
+<table class="table">
+        <thead><tr>
+<th>index</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+</tr>
+</thead>
+        <tbody><tr>
+<td>my_string</td>
+<td>a</td>
+<td>p</td>
+<td>p</td>
+<td>o</td>
+<td>r</td>
+<td>o</td>
+<td>o</td>
+<td>g</td>
+<td>r</td>
+<td>a</td>
+<td>p</td>
+<td>e</td>
+<td>m</td>
+<td>m</td>
+<td>e</td>
+<td>m</td>
+<td>p</td>
+<td>r</td>
+<td>s</td>
+</tr>
+</tbody>
+      </table><div class="highlight"><pre class="codehilite"><code>`indices`에 있는 인덱스의 글자들을 지우고 이어붙이면 "programmers"가 되므로 이를 return 합니다.
 </code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
