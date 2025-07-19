@@ -1,10 +1,10 @@
 # [level 0] 2차원으로 만들기 - 120842 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120842) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.04 ms
+메모리: 9.09 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 14일 23:56:09
+2025년 07월 20일 08:26:54
 
 ### 문제 설명
 
