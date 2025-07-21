@@ -1,10 +1,10 @@
 # [level 0] A로 B 만들기 - 120886 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120886) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120886?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.48 ms
+메모리: 9.18 MB, 시간: 0.38 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 11일 02:56:18
+2025년 07월 21일 22:16:43
 
 ### 문제 설명
 
