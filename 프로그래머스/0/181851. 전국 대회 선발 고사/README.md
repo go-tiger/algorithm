@@ -1,10 +1,10 @@
 # [level 0] 전국 대회 선발 고사 - 181851 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181851) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181851?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.22 ms
+메모리: 9.23 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 05일 11:47:31
+2025년 09월 15일 20:11:15
 
 ### 문제 설명
 
