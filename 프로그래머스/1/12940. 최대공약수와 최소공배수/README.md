@@ -1,10 +1,10 @@
 # [level 1] 최대공약수와 최소공배수 - 12940 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.18 ms
+메모리: 9.25 MB, 시간: 0.16 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 09일 22:42:08
+2025년 09월 19일 19:47:18
 
 ### 문제 설명
 
