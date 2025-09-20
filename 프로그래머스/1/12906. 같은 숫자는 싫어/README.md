@@ -1,10 +1,10 @@
-# [level 1] 같은 숫자는 싫어 - 12906
+# [level 1] 같은 숫자는 싫어 - 12906 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=python3) 
 
 ### 성능 요약
 
-메모리: 82.8 MB, 시간: 38.53 ms
+메모리: 27.1 MB, 시간: 200.64 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 17일 18:11:30
+2025년 09월 20일 16:59:10
 
 ### 문제 설명
 
@@ -59,5 +59,6 @@
 
 <p>입출력 예 #1,2<br>
 문제의 예시와 같습니다.</p>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
