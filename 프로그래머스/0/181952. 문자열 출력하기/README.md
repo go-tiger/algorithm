@@ -1,10 +1,10 @@
 # [level 0] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=python3) 
 
 ### 성능 요약
 
-메모리: 32.3 MB, 시간: 44.67 ms
+메모리: 7.33 MB, 시간: 11.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 15일 10:16:20
+2025년 10월 19일 11:49:16
 
 ### 문제 설명
 
@@ -36,10 +36,10 @@
 <h5>입출력 예</h5>
 
 <p>입력 #1</p>
-<div class="highlight"><pre class="codehilite"><code>HelloWorld!
+<div class="highlight" bis_skin_checked="1"><pre class="codehilite"><code>HelloWorld!
 </code></pre></div>
 <p>출력 #1</p>
-<div class="highlight"><pre class="codehilite"><code>HelloWorld!
+<div class="highlight" bis_skin_checked="1"><pre class="codehilite"><code>HelloWorld!
 </code></pre></div>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
