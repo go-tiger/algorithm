@@ -1,10 +1,10 @@
-# [level 2] n^2 배열 자르기 - 87390 
+# [level 2] n^2 배열 자르기 - 87390
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87390?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87390?language=python3)
 
 ### 성능 요약
 
-메모리: 53 MB, 시간: 28.93 ms
+메모리: 18.2 MB, 시간: 34.86 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 11월 19일 20:27:13
+2025년 11월 21일 21:43:30
 
 ### 문제 설명
 
@@ -89,6 +89,5 @@
 </ul>
 
 <p><img src="https://grepp-programmers.s3.amazonaws.com/production/file_resource/104/FlattenedFills_ex2.gif" title="" alt="ex2"></p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
