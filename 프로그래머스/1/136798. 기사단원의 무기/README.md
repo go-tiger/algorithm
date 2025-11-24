@@ -1,10 +1,10 @@
-# [level 1] 기사단원의 무기 - 136798 
+# [level 1] 기사단원의 무기 - 136798
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=javascript)
 
 ### 성능 요약
 
-메모리: 37 MB, 시간: 105.27 ms
+메모리: 36.8 MB, 시간: 105.60 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 11월 23일 21:43:27
+2025년 11월 24일 19:31:33
 
 ### 문제 설명
 
@@ -74,6 +74,5 @@
 <p><strong>입출력 예 #2</strong></p>
 
 <p>1부터 10까지의 약수의 개수는 순서대로 [1, 2, 2, 3, 2, 4, 2, 4, 3, 4]개입니다. 공격력의 제한수치가 3이기 때문에, 6, 8, 10번 기사는 공격력이 2인 무기를 구매합니다. 따라서 해당 수들의 합인 21을 return 합니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
