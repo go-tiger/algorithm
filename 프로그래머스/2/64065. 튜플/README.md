@@ -1,10 +1,10 @@
-# [level 2] 튜플 - 64065 
+# [level 2] 튜플 - 64065
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64065?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64065?language=python3)
 
 ### 성능 요약
 
-메모리: 39.3 MB, 시간: 36.72 ms
+메모리: 15.5 MB, 시간: 18.97 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 11일 22:40:19
+2025년 12월 12일 19:30:19
 
 ### 문제 설명
 
@@ -121,6 +121,5 @@
 <h5><strong>입출력 예 #5</strong></h5>
 
 <p>(3, 2, 4, 1)을 집합 기호를 이용해 표현하면 {{3},{3,2},{3,2,4},{3,2,4,1}}이 되며, 이는 {{4,2,3},{3},{2,3,4,1},{2,3}}과 같습니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
