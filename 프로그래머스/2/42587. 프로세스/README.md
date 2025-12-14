@@ -1,10 +1,10 @@
 # [level 2] 프로세스 - 42587 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.36 ms
+메모리: 9.14 MB, 시간: 0.75 ms
 
 ### 구분
 
@@ -16,12 +16,12 @@
 
 ### 제출 일자
 
-2025년 12월 13일 23:40:44
+2025년 12월 14일 14:10:36
 
 ### 문제 설명
 
 <p>운영체제의 역할 중 하나는 컴퓨터 시스템의 자원을 효율적으로 관리하는 것입니다. 이 문제에서는 운영체제가 다음 규칙에 따라 프로세스를 관리할 경우 특정 프로세스가 몇 번째로 실행되는지 알아내면 됩니다.</p>
-<div class="highlight" bis_skin_checked="1"><pre class="codehilite"><code>1. 실행 대기 큐(Queue)에서 대기중인 프로세스 하나를 꺼냅니다.
+<div class="highlight"><pre class="codehilite"><code>1. 실행 대기 큐(Queue)에서 대기중인 프로세스 하나를 꺼냅니다.
 2. 큐에 대기중인 프로세스 중 우선순위가 더 높은 프로세스가 있다면 방금 꺼낸 프로세스를 다시 큐에 넣습니다.
 3. 만약 그런 프로세스가 없다면 방금 꺼낸 프로세스를 실행합니다.
   3.1 한 번 실행한 프로세스는 다시 큐에 넣지 않고 그대로 종료됩니다.
