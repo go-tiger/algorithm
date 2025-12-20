@@ -1,10 +1,10 @@
-# [level 2] 롤케이크 자르기 - 132265
+# [level 2] 롤케이크 자르기 - 132265 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132265?language=python3) 
 
 ### 성능 요약
 
-메모리: 78.9 MB, 시간: 72.31 ms
+메모리: 55.8 MB, 시간: 817.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 17일 21:40:05
+2025년 12월 20일 15:50:47
 
 ### 문제 설명
 
@@ -72,5 +72,6 @@
 <ul>
 <li>롤케이크를 공평하게 나눌 수 없습니다.</li>
 </ul>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
