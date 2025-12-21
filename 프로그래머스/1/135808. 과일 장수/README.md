@@ -1,10 +1,10 @@
-# [level 1] 과일 장수 - 135808
+# [level 1] 과일 장수 - 135808 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=python3) 
 
 ### 성능 요약
 
-메모리: 83.5 MB, 시간: 232.71 ms
+메모리: 20.8 MB, 시간: 93.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 18일 21:47:59
+2025년 12월 21일 13:23:41
 
 ### 문제 설명
 
@@ -115,5 +115,6 @@
 </tbody>
       </table>
 <p>따라서 (1 x 3 x 1) + (2 x 3 x 1) + (4 x 3 x 2) = 33을 return합니다.</p>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
