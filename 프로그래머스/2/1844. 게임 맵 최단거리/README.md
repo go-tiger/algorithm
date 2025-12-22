@@ -1,10 +1,10 @@
-# [level 2] 게임 맵 최단거리 - 1844 
+# [level 2] 게임 맵 최단거리 - 1844
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=python3)
 
 ### 성능 요약
 
-메모리: 37.7 MB, 시간: 32.24 ms
+메모리: 9.36 MB, 시간: 17.33 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 19일 22:46:54
+2025년 12월 22일 19:32:38
 
 ### 문제 설명
 
@@ -95,6 +95,5 @@
 
 <p>입출력 예 #2<br>
 문제의 예시와 같으며, 상대 팀 진영에 도달할 방법이 없습니다. 따라서 -1을 return 합니다.</p>
-
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
