@@ -1,10 +1,10 @@
-# [level 2] [3차] n진수 게임 - 17687
+# [level 2] [3차] n진수 게임 - 17687 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17687?language=python3) 
 
 ### 성능 요약
 
-메모리: 38.7 MB, 시간: 10.18 ms
+메모리: 9.25 MB, 시간: 18.21 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 22일 16:36:42
+2026년 02월 23일 22:17:38
 
 ### 문제 설명
 
@@ -88,5 +88,6 @@
 </tbody>
       </table>
 <p><a href="http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/" target="_blank" rel="noopener">해설 보러가기</a></p>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
