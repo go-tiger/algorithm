@@ -1,10 +1,10 @@
-# [level 0] 겹치는 선분의 길이 - 120876
+# [level 0] 겹치는 선분의 길이 - 120876 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120876?language=javascript)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120876?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.2 MB, 시간: 0.50 ms
+메모리: 9.19 MB, 시간: 0.50 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 04일 22:31:30
+2026년 04월 12일 22:51:08
 
 ### 문제 설명
 
@@ -90,5 +90,6 @@
 <li>두 번째와 세 번째 선분 [3, 9] 구간에서&nbsp;겹칩니다.</li>
 <li>따라서 [1, 9] 구간에 두 개 이상의 선분이 겹쳐있으므로, 8을 return 합니다.</li>
 </ul>
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
